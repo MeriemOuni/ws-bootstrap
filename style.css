@@ -1,0 +1,22 @@
+.intro-img {
+	height: 700px;
+	width: 80%;
+}
+
+.cards {
+	display: flex;
+	justify-content: space-around;
+	margin: 5%;
+}
+
+.cards img {
+	height: 70% !important;
+}
+
+.forms {
+	width: 70%;
+	margin: 2% 15%;
+	background-color: antiquewhite;
+	padding: 3%;
+	border-radius: 15px;
+}
